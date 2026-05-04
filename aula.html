@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aula</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="player-page">
+
+    <a href="index.html" class="back-btn">Voltar</a>
+
+    <h1 id="titulo"></h1>
+
+    <!-- VIDEO GRANDE -->
+    <div class="video-wrap">
+        <iframe id="video" allowfullscreen></iframe>
+    </div>
+
+    <!-- BOTÃO DOWNLOAD -->
+    <div id="downloadContainer"></div>
+
+    <!-- SLIDES EMBUTIDO -->
+    <div class="slide-section">
+        <div class="slide-header">
+            <h2>Slides da Aula</h2>
+            <button class="fullscreen-btn" onclick="document.getElementById('slideFrame').requestFullscreen()">&#x26F6; Tela Cheia</button>
+        </div>
+        <div class="slide-frame">
+            <iframe id="slideFrame" allowfullscreen></iframe>
+        </div>
+    </div>
+
+</section>
+
+<script src="js/config.js"></script>
+<script src="js/aulas.js"></script>
+<script src="js/player.js"></script>
+
+</body>
+</html>
