@@ -38,7 +38,7 @@ id:4,
 titulo:"(Aula 04) Tipografia",
 liberada:true,
 video:"https://www.youtube.com/watch?v=yyjUmv1gJEg&list=RDyyjUmv1gJEg&start_radio=1",
-slide:"#",
+slide:"2PACX-1vR9DJ8RlXXdEciIbGp-AhQnSf8KVQjtaQkJbOX_a3J5tbVrOB2RXPUgIvY5zf0lA-9hGfmyLlEAqKWm",
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1Si3nBSIZPTj0zIITIGdlO39pACm14Owi?usp=sharing",
 thumb:"#"
