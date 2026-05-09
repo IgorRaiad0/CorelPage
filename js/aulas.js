@@ -37,7 +37,7 @@ thumb:"thumbs/Aula03.jpeg"
 id:4,
 titulo:"(Aula 04) Tipografia",
 liberada:true,
-video:"#",
+video:"https://www.youtube.com/watch?v=yyjUmv1gJEg&list=RDyyjUmv1gJEg&start_radio=1",
 slide:"#",
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1Si3nBSIZPTj0zIITIGdlO39pACm14Owi?usp=sharing",
