@@ -31,6 +31,17 @@ slide:"2PACX-1vSNjdAonPX2QSx72WEEP-T9RdOrXKzjgeYiRofubeleb5izF6Ecq9XylIWoYSINt7U
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1uwQaIdo3fGH5hO-RA8hI-fLy6ZCGDH10?usp=sharing",
 thumb:"thumbs/Aula03.jpeg"
+},
+
+{
+id:4,
+titulo:"(Aula 04) Tipografia",
+liberada:true,
+video:"#",
+slide:"#",
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/1Si3nBSIZPTj0zIITIGdlO39pACm14Owi?usp=sharing",
+thumb:"#"
 }
 
 
