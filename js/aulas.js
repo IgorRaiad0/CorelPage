@@ -6,6 +6,7 @@ titulo:"(Aula 01) Introdução ao CorelDRAW",
 liberada:true,
 video:"https://www.youtube.com/watch?v=Ml2exCaowPY",
 slide:"2PACX-1vSRdq6Mn00dp-6CcObEK2cmB54JT6od9tzxcK4cTuYbY5pOW4tX8nJuFJ6-hMmx74If_rO6TMj3bEWB",
+temSlide:true,
 temArquivos:false,
 arquivos:"#",
 thumb:"thumbs/Aula01.jpeg",
@@ -17,6 +18,7 @@ titulo:"(Aula 02) Tipos de Arquivos",
 liberada:true,
 video:"https://www.youtube.com/watch?v=WeKHEkSRvhM",
 slide:"2PACX-1vQc3IQCvztL1TD1x7LCDkzEHvAsFoqHZjuloCcD9AfeDR5jRylmvKkShMXvM-PVS5de7Bwvttt7qAZb",
+temSlide:true,
 temArquivos:false,
 arquivos:"#",
 thumb:"thumbs/aula02.jpeg"
@@ -28,6 +30,7 @@ titulo:"(Aula 03) Desenhos Vetoriais",
 liberada:true,
 video:"https://www.youtube.com/watch?v=uGcE4y2X0IM",
 slide:"2PACX-1vSNjdAonPX2QSx72WEEP-T9RdOrXKzjgeYiRofubeleb5izF6Ecq9XylIWoYSINt7U-M0602sL5LIoy",
+temSlide:true,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1uwQaIdo3fGH5hO-RA8hI-fLy6ZCGDH10?usp=sharing",
 thumb:"thumbs/Aula03.jpeg"
@@ -39,9 +42,22 @@ titulo:"(Aula 04) Tipografia",
 liberada:true,
 video:"https://youtu.be/djfcSIuDo1s",
 slide:"2PACX-1vR9DJ8RlXXdEciIbGp-AhQnSf8KVQjtaQkJbOX_a3J5tbVrOB2RXPUgIvY5zf0lA-9hGfmyLlEAqKWm",
+temSlide:true,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1Si3nBSIZPTj0zIITIGdlO39pACm14Owi?usp=sharing",
 thumb:"thumbs/aula04.png"
+},
+
+{
+id:5,
+titulo:"(Aula 05) Cartão de Visitas",
+liberada:true,
+video:"https://youtu.be/6639CJgxJ-g",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"#",
+thumb:"thumbs/Aula05.jpg"
 }
 
 

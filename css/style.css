@@ -200,8 +200,8 @@ header p{
 
 /* SLIDE SECTION */
 .slide-section {
-    width: 100%;
-    max-width: 900px;
+    width: 100vw;
+    max-width: 1400px;
     text-align: center;
     margin-top: 20px;
 }
