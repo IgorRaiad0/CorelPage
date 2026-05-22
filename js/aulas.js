@@ -58,6 +58,18 @@ temSlide:false,
 temArquivos:false,
 arquivos:"#",
 thumb:"thumbs/Aula05.jpg"
+},
+
+{
+id:6,
+titulo:"(Aula 06) Vetorização Rápida",
+liberada:true,
+video:"https://www.youtube.com/watch?v=uAkFXiTNQ88",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/13k4u18HGGK1LbI_CFHM8gPZO3hCvBkRV?usp=drive_link",
+thumb:"thumbs/Aula06.jpeg"
 }
 
 
