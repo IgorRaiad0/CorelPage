@@ -69,8 +69,20 @@ slide:"#",
 temSlide:false,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/13k4u18HGGK1LbI_CFHM8gPZO3hCvBkRV?usp=drive_link",
-thumb:"thumbs/Aula06.jpeg"
-}
+thumb:"thumbs/Aula06.jpeg",
+},
+
+{
+id:7,
+titulo:"(Aula 07) Anuncio",
+liberada:true,
+video:"https://youtu.be/qU13nDac2zM",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/19IuTxyPmIX1JzV5ZLO3LKW_BYLlmRV33?usp=sharing",
+thumb:"thumbs/Aula07.png",
+},
 
 
 ];
