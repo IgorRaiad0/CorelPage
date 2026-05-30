@@ -74,7 +74,7 @@ thumb:"thumbs/Aula06.jpeg",
 
 {
 id:7,
-titulo:"(Aula 07) Anuncio",
+titulo:"(Aula 07) Anúncio",
 liberada:true,
 video:"https://youtu.be/qU13nDac2zM",
 slide:"#",
