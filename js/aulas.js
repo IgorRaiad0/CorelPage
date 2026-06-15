@@ -83,6 +83,17 @@ temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/19IuTxyPmIX1JzV5ZLO3LKW_BYLlmRV33?usp=sharing",
 thumb:"thumbs/Aula07.png",
 },
+{
+id:8,
+titulo:"(Aula 08) Mini Revisão",
+liberada:true,
+video:"https://www.youtube.com/watch?v=dBzAnJy8Kbk",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"",
+thumb:"thumbs/Aula08.jpg",
+},
 
 
 ];
