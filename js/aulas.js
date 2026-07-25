@@ -105,6 +105,28 @@ temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1xcLg7rBdzTKIatMS5Ocx1IMe3gYAGnJS?usp=sharing",
 thumb:"thumbs/SupraBaneer2.jpg",
 },
+{
+id:10,
+titulo:"(Aula 10) Portfólio",
+liberada:true,
+video:"https://youtu.be/i-ZHB7Kb1Yg",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"",
+thumb:"thumbs/aula10.jpg",
+},
+{
+id:11,
+titulo:"(Aula 11) Cardápio",
+liberada:true,
+video:"https://youtu.be/3qvK6ww2Tms",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"",
+thumb:"thumbs/aula11.png",
+},
 
 
 ];
