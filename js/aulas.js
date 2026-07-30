@@ -125,7 +125,7 @@ slide:"#",
 temSlide:false,
 temArquivos:false,
 arquivos:"",
-thumb:"thumbs/aula11.png",
+thumb:"thumbs/11.png",
 },
 {
 id:12,
