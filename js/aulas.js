@@ -127,6 +127,17 @@ temArquivos:false,
 arquivos:"",
 thumb:"thumbs/aula11.png",
 },
+{
+id:12,
+titulo:"(Aula 12) Criando Elementos",
+liberada:true,
+video:"https://youtu.be/SwZQN8v8P_s",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/1DlTd7D9PW0fmrEk3rr07N7YVpqCCqIu9?usp=sharing",
+thumb:"thumbs/12.jpeg",
+},
 
 
 ];
