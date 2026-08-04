@@ -139,5 +139,17 @@ arquivos:"https://drive.google.com/drive/folders/1DlTd7D9PW0fmrEk3rr07N7YVpqCCqI
 thumb:"thumbs/12.jpeg",
 },
 
+{
+id:13,
+titulo:"(Aula 13) Mokups",
+liberada:true,
+video:"https://www.youtube.com/watch?v=yOCoLciHKT4",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"",
+thumb:"thumbs/aula13.JPG",
+},
+
 
 ];
