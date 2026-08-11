@@ -151,5 +151,16 @@ arquivos:"https://drive.google.com/drive/folders/1M1IpzxOB5HmzEOoQ9D3L6mohvFkBK3
 thumb:"thumbs/aula13.JPG",
 },
 
+{
+id:14,
+titulo:"(Aula 14) Otimizações em artes",
+liberada:true,
+video:"https://youtu.be/98kv3kTiMng",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/1tj3PH49WRFG6YH8zB3PeRoXMB_jR0OgF?usp=sharing",
+thumb:"thumbs/aula14.jpg",
+},
 
 ];
