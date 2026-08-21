@@ -163,4 +163,16 @@ arquivos:"https://drive.google.com/drive/folders/1tj3PH49WRFG6YH8zB3PeRoXMB_jR0O
 thumb:"thumbs/aula14.jpg",
 },
 
+{
+id:15,
+titulo:"(Aula 15) Textos em envelope",
+liberada:true,
+video:"https://youtu.be/icvO5ewhcpc",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/1blNdC-f8mDN2DY0uCgyZX_7jY_cL-pIx?usp=sharing",
+thumb:"thumbs/aula15.png",
+},
+
 ];
