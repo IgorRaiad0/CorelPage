@@ -175,4 +175,17 @@ arquivos:"https://drive.google.com/drive/folders/1blNdC-f8mDN2DY0uCgyZX_7jY_cL-p
 thumb:"thumbs/aula15.png",
 },
 
+{
+id:16,
+titulo:"(Aula 16) Efeitos com texto",
+liberada:true,
+video:"https://www.youtube.com/watch?v=MuMgP_PTtzM",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"#",
+thumb:"thumbs/Aula16.JPG",
+},
+
+
 ];
