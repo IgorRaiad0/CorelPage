@@ -187,5 +187,17 @@ arquivos:"#",
 thumb:"thumbs/Aula16.JPG",
 },
 
+{
+id:17,
+titulo:"(Aula 17) Extrusão e 3d",
+liberada:true,
+video:"https://www.youtube.com/watch?v=O-aDGp1cZI0",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/15duThsogfqsYgKtHmIbVWdEfrrf89tud?usp=sharing",
+thumb:"thumbs/Aula17.JPG",
+},
+
 
 ];
