@@ -199,5 +199,17 @@ arquivos:"https://drive.google.com/drive/folders/15duThsogfqsYgKtHmIbVWdEfrrf89t
 thumb:"thumbs/Aula17.JPG",
 },
 
+{
+id:18,
+titulo:"(Aula 18) Efeitos 3d",
+liberada:true,
+video:"https://youtu.be/sLHa_6690Gg",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/1AedmWGoh-QsXaMbNaOewn1lPbXJ9n5qd?usp=sharing",
+thumb:"thumbs/Aula18.jpg",
+},
+
 
 ];
