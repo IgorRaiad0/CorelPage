@@ -208,7 +208,7 @@ slide:"#",
 temSlide:false,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1AedmWGoh-QsXaMbNaOewn1lPbXJ9n5qd?usp=sharing",
-thumb:"thumbs/Aula18.jpg",
+thumb:"thumbs/aula18.jpg",
 },
 
 
