@@ -201,7 +201,7 @@ thumb:"thumbs/Aula17.JPG",
 
 {
 id:18,
-titulo:"(Aula 18) Efeitos 3d",
+titulo:"(Aula 18) Efeitos 3d em Textos",
 liberada:true,
 video:"https://youtu.be/sLHa_6690Gg",
 slide:"#",
