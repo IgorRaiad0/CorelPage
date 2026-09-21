@@ -208,7 +208,20 @@ slide:"#",
 temSlide:false,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1AedmWGoh-QsXaMbNaOewn1lPbXJ9n5qd?usp=sharing",
-thumb:"thumbs/aula18.jpg",
+thumb:"thumbs/Aula18.jpg",
+},
+
+
+{
+id:19,
+titulo:"(Aula 19) Animações",
+liberada:true,
+video:"https://www.youtube.com/watch?v=Rx77v4Pzc7k",
+slide:"#",
+temSlide:false,
+temArquivos:true,
+arquivos:"https://drive.google.com/drive/folders/1u57zFam4XVbtMn9Ikk5hCzZZrBj3c8zv?usp=sharing",
+thumb:"thumbs/aula19.JPG",
 },
 
 
