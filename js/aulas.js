@@ -208,7 +208,7 @@ slide:"#",
 temSlide:false,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1AedmWGoh-QsXaMbNaOewn1lPbXJ9n5qd?usp=sharing",
-thumb:"thumbs/Aula18.jpg",
+thumb:"thumbs/aula18.jpg",
 },
 
 
@@ -222,6 +222,18 @@ temSlide:false,
 temArquivos:true,
 arquivos:"https://drive.google.com/drive/folders/1u57zFam4XVbtMn9Ikk5hCzZZrBj3c8zv?usp=sharing",
 thumb:"thumbs/aula19.JPG",
+},
+
+{
+id:20,
+titulo:"(Aula 20) Impresão",
+liberada:true,
+video:"https://youtu.be/TW1ZRrft0XU",
+slide:"#",
+temSlide:false,
+temArquivos:false,
+arquivos:"",
+thumb:"thumbs/aula20.jpg",
 },
 
 
